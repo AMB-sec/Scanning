@@ -1,2 +1,2 @@
-# Scanning
-Scanning phase TTPs
+# scanning
+scanning phase TTPs
